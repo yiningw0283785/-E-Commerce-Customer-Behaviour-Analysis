@@ -89,18 +89,20 @@ The dataset includes:
 
 > **Recommendation:** Maintain quality control standards and highlight top-rated sellers.
 
+
+
+---
+
+## Conclusion
+
+The JD.com platform has matured with high engagement from middle-aged, male users in lower-tier cities. However, there is significant room to improve **conversion**, **retention**, and **diversify the user base**. Strategic use of user data, regional insights, and tailored marketing can drive long-term platform growth.
+
 ---
 
 
-## 🧠 Tools Used
+## Tools Used
 
 - Python (Pandas, Seaborn, Matplotlib, Pyecharts)
 
-
----
-
-## 📌 Final Takeaway
-
-The JD.com platform has matured with high engagement from middle-aged, male users in lower-tier cities. However, there is significant room to improve **conversion**, **retention**, and **diversify the user base**. Strategic use of user data, regional insights, and tailored marketing can drive long-term platform growth.
 
 
