@@ -126,7 +126,7 @@ Based on comprehensive analysis of user behavior, demographics, shop/product dat
 - Analyze and revive successful merchant onboarding strategies from the 2016–2017 boom.
 - Optimize for seasonality (e.g., pre-Chinese New Year demand spikes), with campaigns aligned to shopping peaks.
 
-> Together, these strategies aim to boost user conversion, engagement, and retention — guided by a deep understanding of JD’s core user base. By acting on user profile insights, JD.com can continue expanding its reach while improving lifetime customer value.
+Together, these strategies aim to boost user conversion, engagement, and retention — guided by a deep understanding of JD’s core user base. By acting on user profile insights, JD.com can continue expanding its reach while improving lifetime customer value.
 
 
 ---
