@@ -4,6 +4,14 @@ This project presents an end-to-end data analysis of a real-world e-commerce dat
 
 ---
 
+
+
+## Tools Used
+
+- Python (Pandas, Seaborn, Matplotlib, Pyecharts)
+
+---
+
 ## Dataset Overview
 
 The dataset includes:
@@ -135,13 +143,6 @@ Together, these strategies aim to boost user conversion, engagement, and retenti
 ## Conclusion
 
 The JD.com platform has matured with high engagement from middle-aged, male users in lower-tier cities. However, there is significant room to improve **conversion**, **retention**, and **diversify the user base**. Strategic use of user data, regional insights, and tailored marketing can drive long-term platform growth.
-
----
-
-
-## Tools Used
-
-- Python (Pandas, Seaborn, Matplotlib, Pyecharts)
 
 
 
